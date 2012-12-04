@@ -1,0 +1,9 @@
+Function: Transform traditional Chinese to simplified Chinese or transform simplified Chinese to traditional Chinese.
+
+Description: Use a traditional chinese dictionary and a corresponding simplified chinese dictionary.
+
+Addition: If you find the tradition Chinese dictionary is insufficiency, you can add some words youself (remeber to add the corresponding simplified word in the simplified dictionary).
+
+Advantages:
+    1. It transforms a string or a file word by word, so the string or a file can include other languages' characters.
+    2. It allows the mixing of traditional Chinese and simplified Chinese.
