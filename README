@@ -1,4 +1,4 @@
-A a transformation tool for traditional Chinese and simplified Chinese in Python.
+A transformation tool between traditional Chinese and simplified Chinese in Python.
 
 There some limitations or bugs in Opencc (https://code.google.com/p/opencc/) or pyjft (https://code.google.com/p/pyjft/). So I integrate some codes and develop this transformation tool.
 
