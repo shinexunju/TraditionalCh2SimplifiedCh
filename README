@@ -1,6 +1,6 @@
 A a transformation tool for traditional Chinese and simplified Chinese in Python.
 
-There some limitations or bugs in Opencc or pyjft (https://code.google.com/p/pyjft/). So I integrate some codes and develop this transformation tool.
+There some limitations or bugs in Opencc (https://code.google.com/p/opencc/) or pyjft (https://code.google.com/p/pyjft/). So I integrate some codes and develop this transformation tool.
 
 Function: Transform traditional Chinese to simplified Chinese or transform simplified Chinese to traditional Chinese.
 
